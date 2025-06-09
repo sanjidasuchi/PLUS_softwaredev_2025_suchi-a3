@@ -1,0 +1,7 @@
+name: foliumenv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - folium
+  - jupyter
